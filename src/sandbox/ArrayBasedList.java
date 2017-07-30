@@ -56,7 +56,7 @@ public class ArrayBasedList {
         myList.insertItem(1);
         myList.insertItem(5);
         myList.insertItem(3);
-        
+
         System.out.println(myList);
     }
 
